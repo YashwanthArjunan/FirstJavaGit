@@ -7,5 +7,7 @@ public class Two {
 	private void search() {
 
 		System.out.println("Search");
+		
+		System.out.println("Second Search");
 	}
 }
